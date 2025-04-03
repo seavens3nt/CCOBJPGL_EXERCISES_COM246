@@ -1,0 +1,7 @@
+elizer,password
+andrew,passbo1
+riley,passbo2
+ken,passbo3
+bino,passbo4
+jared,passbo5
+ranee,skibidi
